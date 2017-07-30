@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="13854387-e0ed-47e9-a387-7e1633160049" name="mzgk.com.ve" url="http://mzgk.com.ve">
+        <fileTransfer host="mzgk.com.ve" port="22" rootFolder="/home/mzgk" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
