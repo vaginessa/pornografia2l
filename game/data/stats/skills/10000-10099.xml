@@ -1314,7 +1314,7 @@
 		<!-- For 30 sec., P. Def. + 4000 and M. Def. + 4000. Damage received is capped at 300 and 40% of it is reflected back to the attacker. Additionally, + 80% Buff-canceling Attack Resistance. -->
 		<abnormalLvl>1</abnormalLvl>
 		<abnormalTime>
-			<value fromLevel="1" toLevel="7">30</value>
+			<value fromLevel="1" toLevel="7">3600</value>
 			<value fromLevel="3" toLevel="7" fromSubLevel="1001" toSubLevel="1010">{base + subIndex}</value>
 			<value fromLevel="3" toLevel="7" fromSubLevel="1011" toSubLevel="1030">{base + 10 + 0.5 * subIndex}</value>
 		</abnormalTime>
@@ -1429,7 +1429,7 @@
 		<!-- For 10 seconds, receives 60% of the damage inflicted to the party member. -->
 		<abnormalLvl>1</abnormalLvl>
 		<abnormalTime>
-			<value fromLevel="1" toLevel="2">10</value>
+			<value fromLevel="1" toLevel="2">3600</value>
 			<value fromLevel="1" toLevel="2" fromSubLevel="1001" toSubLevel="1030">{base + 0.5 * subIndex}</value>
 		</abnormalTime>
 		<abnormalType>SACRIFICE</abnormalType>
@@ -1485,7 +1485,7 @@
 		<affectRange>1000</affectRange>
 		<abnormalLvl>2</abnormalLvl>
 		<abnormalTime>
-			<value fromLevel="1" toLevel="5">15</value>
+			<value fromLevel="1" toLevel="5">3600</value>
 			<value fromLevel="1" toLevel="5" fromSubLevel="1001" toSubLevel="1030">{base + 0.5 * subIndex}</value>
 		</abnormalTime>
 		<abnormalType>TRANSFER_DAMAGE</abnormalType>
@@ -1632,7 +1632,7 @@
 		<!-- For 10 seconds, reflects 10% of received damage back to the attacker. Also has a 50% chance of reflecting magic damage back to the attacker. Requires a shield. -->
 		<abnormalLvl>1</abnormalLvl>
 		<abnormalTime>
-			<value fromLevel="1" toLevel="7">10</value>
+			<value fromLevel="1" toLevel="7">3600</value>
 			<value fromLevel="3" toLevel="7" fromSubLevel="1001" toSubLevel="1030">{base + 0.5 * subIndex}</value>
 		</abnormalTime>
 		<abnormalType>REFLECT_MAGIC_DD</abnormalType>
@@ -1700,7 +1700,7 @@
 		<!-- For 10 seconds, HP does not decrease below 1. -->
 		<abnormalLvl>1</abnormalLvl>
 		<abnormalTime>
-			<value fromLevel="1" toLevel="1">10</value>
+			<value fromLevel="1" toLevel="1">3600</value>
 			<value fromLevel="1" toLevel="1" fromSubLevel="1001" toSubLevel="1030">{base + 0.5 * subIndex}</value>
 		</abnormalTime>
 		<abnormalType>RESIST_DEATH</abnormalType>
@@ -1807,7 +1807,7 @@
 		<!-- Drags all party members to oneself, and for 15 seconds receives 90% of the damage inflicted to all party members. Additionally, all damage received is capped at 10. Requires a shield. -->
 		<abnormalLvl>2</abnormalLvl>
 		<abnormalTime>
-			<value fromLevel="1" toLevel="1">15</value>
+			<value fromLevel="1" toLevel="1">3600</value>
 			<value fromLevel="1" toLevel="1" fromSubLevel="1001" toSubLevel="1030">{base + 0.5 * subIndex}</value>
 		</abnormalTime>
 		<abnormalType>TRANSFER_DAMAGE</abnormalType>
@@ -5404,7 +5404,7 @@
 		<!-- For 1 min., P./M. Def. +50%, Debuff Resistance + 10%, Speed + 10. When equipped with a sword or blunt weapon, Accuracy + 4, Atk. Spd. + 10%, Critical Rate + 30, Critical Damage + 30%. -->
 		<abnormalLvl>1</abnormalLvl>
 		<abnormalTime>
-			<value fromLevel="1" toLevel="4">60</value>
+			<value fromLevel="1" toLevel="4">3600</value>
 			<value fromLevel="3" toLevel="4" fromSubLevel="1001" toSubLevel="1010">{base + subIndex}</value>
 			<value fromLevel="3" toLevel="4" fromSubLevel="1011" toSubLevel="1030">{base + 10 + 0.5 * subIndex}</value>
 		</abnormalTime>
@@ -5530,7 +5530,7 @@
 		<!-- For 1 min., P. Atk. + 5%, P./M. Def. + 50%, Speed + 10. When equipped with a sword or blunt weapon, Accuracy + 4, Atk. Spd. + 10%, Critical Rate + 30, Critical Damage + 30%. -->
 		<abnormalLvl>1</abnormalLvl>
 		<abnormalTime>
-			<value fromLevel="1" toLevel="4">60</value>
+			<value fromLevel="1" toLevel="4">3600</value>
 			<value fromLevel="3" toLevel="4" fromSubLevel="1001" toSubLevel="1010">{base + subIndex}</value>
 			<value fromLevel="3" toLevel="4" fromSubLevel="1011" toSubLevel="1030">{base + 10 + 0.5 * subIndex}</value>
 		</abnormalTime>

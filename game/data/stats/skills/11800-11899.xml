@@ -820,7 +820,7 @@
 		<!-- Updated to Ertheia -->
 		<!-- For 30 minutes, target's P. Atk. + 17%, P. Def. + 15%, M. Atk. + 79%, M. Def. + 30%. -->
 		<icon>icon.skill11820</icon>
-		<abnormalTime>1800</abnormalTime>
+		<abnormalTime>3600</abnormalTime>
 		<abnormalLvl>1</abnormalLvl>
 		<abnormalType>BUFF_SPECIAL_ATTACK</abnormalType>
 		<operateType>A2</operateType>
@@ -869,7 +869,7 @@
 		<!-- For 30 minutes, target's P. Critical Rate + 32%, P. Critical Damage + 35%, M. Critical Rate + 20, MP Consumption for physical skills - 20% and MP Consumption for magic skills - 10%. -->
 		<icon>icon.skill11821</icon>
 		<abnormalLvl>1</abnormalLvl>
-		<abnormalTime>1800</abnormalTime>
+		<abnormalTime>3600</abnormalTime>
 		<abnormalType>BUFF_SPECIAL_CRITICAL</abnormalType>
 		<operateType>A2</operateType>
 		<mpConsume>17</mpConsume>
@@ -923,7 +923,7 @@
 		<!-- For 30 minutes, target's Atk. Spd. + 34% and Casting Spd. + 31%. Bestows a 9% Vampiric Rage effect at a certain rate. -->
 		<icon>icon.skill11822</icon>
 		<abnormalLvl>1</abnormalLvl>
-		<abnormalTime>1800</abnormalTime>
+		<abnormalTime>3600</abnormalTime>
 		<abnormalType>BUFF_SPECIAL_MOVE</abnormalType>
 		<operateType>A2</operateType>
 		<mpConsume>17</mpConsume>
@@ -967,7 +967,7 @@
 		<!-- For 30 minutes, target's P. Accuracy + 5, P. and M. Evasion + 5, Speed + 34 and received Critical Damage - 30%. -->
 		<icon>icon.skill11823</icon>
 		<abnormalLvl>1</abnormalLvl>
-		<abnormalTime>1800</abnormalTime>
+		<abnormalTime>3600</abnormalTime>
 		<abnormalType>BUFF_SPECIAL_HITAVOID</abnormalType>
 		<operateType>A2</operateType>
 		<mpConsume>17</mpConsume>
@@ -1019,7 +1019,7 @@
 		<!-- For 30 minutes, Stun Resistance + 40%, Poison Resistance + 50% and Holy/Dark Attack Resistance + 30. -->
 		<icon>icon.skill11567</icon>
 		<abnormalLvl>5</abnormalLvl>
-		<abnormalTime>1800</abnormalTime>
+		<abnormalTime>3600</abnormalTime>
 		<abnormalType>ARMOR_HOLY</abnormalType>
 		<operateType>A2</operateType>
 		<mpConsume>17</mpConsume>
@@ -1062,7 +1062,7 @@
 		<!-- Glory Days confirmed -->
 		<!-- For 30 minutes, Hold/Sleep/Mental Attack Resistance + 50, Buff-canceling Attack Resistance + 30 and Debuff Resistance + 20. -->
 		<icon>icon.skill11825</icon>
-		<abnormalTime>1800</abnormalTime>
+		<abnormalTime>3600</abnormalTime>
 		<abnormalLvl>5</abnormalLvl>
 		<abnormalType>RESIST_DERANGEMENT</abnormalType>
 		<operateType>A2</operateType>
@@ -1200,7 +1200,7 @@
 		<!-- For 30 minutes, target's Max MP - 20%, HP Recovery Bonus - 20%, M. Critical Rate - 20, Critical Damage during a normal attack - 20%, P. Atk. - 10%, P. Def. - 20%, Atk. Spd. - 20%, M. Atk. - 20%, M. Def. - 20%, Casting Spd. - 20%, Debuff Resistance - 10%, damage received from a critical attack - 30% and Speed - 15%. -->
 		<icon>icon.skill11522</icon>
 		<abnormalLvl>1</abnormalLvl>
-		<abnormalTime>1800</abnormalTime>
+		<abnormalTime>3600</abnormalTime>
 		<abnormalType>BUFF_SPECIAL_DEFENCE</abnormalType>
 		<operateType>A2</operateType>
 		<mpConsume>35</mpConsume>
@@ -1487,7 +1487,7 @@
 		<!-- Glory Days confirmed -->
 		<!-- Increases Speed. -->
 		<abnormalLvl>1</abnormalLvl>
-		<abnormalTime>15</abnormalTime>
+		<abnormalTime>3600</abnormalTime>
 		<abnormalType>SPEED_UP_SPECIAL</abnormalType>
 		<icon>icon.skill11770</icon>
 		<operateType>A2</operateType>
@@ -1630,7 +1630,7 @@
 			<value level="4">7</value>
 		</abnormalLvl>
 		<abnormalType>HEAL_EFFECT_UP</abnormalType>
-		<abnormalTime>1800</abnormalTime>
+		<abnormalTime>3600</abnormalTime>
 		<affectRange>1000</affectRange>
 		<operateType>A2</operateType>
 		<icon>icon.skill11859</icon>
@@ -1991,7 +1991,7 @@
 		<!-- Updated to IO -->
 		<!-- For 30 min., increases party member's Elemental Resistance by 30. Consumes 10 Spirit Ores. -->
 		<abnormalLvl>1</abnormalLvl>
-		<abnormalTime>1800</abnormalTime>
+		<abnormalTime>3600</abnormalTime>
 		<abnormalType>HEAL_RESISTANCE</abnormalType>
 		<icon>icon.skill11861</icon>
 		<operateType>A2</operateType>

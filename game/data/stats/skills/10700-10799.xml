@@ -837,8 +837,8 @@
 			<value level="4">4</value>
 		</abnormalLvl>
 		<abnormalTime>
-			<value fromLevel="1" toLevel="4">1800</value>
-			<value fromLevel="3" toLevel="4" fromSubLevel="1001" toSubLevel="1030">{1800 + subIndex * 90}</value>
+			<value fromLevel="1" toLevel="4">3600</value>
+			<value fromLevel="3" toLevel="4" fromSubLevel="1001" toSubLevel="1030">{3600 + subIndex * 90}</value>
 		</abnormalTime>
 		<abnormalType>SHOOTING_STANCE</abnormalType>
 		<icon>icon.skill10757</icon>
@@ -911,8 +911,8 @@
 			<value level="4">4</value>
 		</abnormalLvl>
 		<abnormalTime>
-			<value fromLevel="1" toLevel="4">1800</value>
-			<value fromLevel="3" toLevel="4" fromSubLevel="1001" toSubLevel="1030">{1800 + subIndex * 90}</value>
+			<value fromLevel="1" toLevel="4">3600</value>
+			<value fromLevel="3" toLevel="4" fromSubLevel="1001" toSubLevel="1030">{3600 + subIndex * 90}</value>
 		</abnormalTime>
 		<abnormalType>SHOOTING_STANCE</abnormalType>
 		<icon>icon.skill10758</icon>
@@ -986,8 +986,8 @@
 			<value level="4">4</value>
 		</abnormalLvl>
 		<abnormalTime>
-			<value fromLevel="1" toLevel="4">1800</value>
-			<value fromLevel="3" toLevel="4" fromSubLevel="1001" toSubLevel="1030">{1800 + subIndex * 90}</value>
+			<value fromLevel="1" toLevel="4">3600</value>
+			<value fromLevel="3" toLevel="4" fromSubLevel="1001" toSubLevel="1030">{3600 + subIndex * 90}</value>
 		</abnormalTime>
 		<abnormalType>SHOOTING_STANCE</abnormalType>
 		<icon>icon.skill10759</icon>
@@ -2172,7 +2172,7 @@
 		<!-- For 30 sec., P. Evasion + 60, M. Evasion + 60, M. Def. + 20%, Debuff Resistance + 95%, and P. Skill Evasion Rate + 80%. -->
 		<abnormalLvl>1</abnormalLvl>
 		<abnormalTime>
-			<value fromLevel="1" toLevel="4">30</value>
+			<value fromLevel="1" toLevel="4">3600</value>
 			<value fromLevel="3" toLevel="4" fromSubLevel="1001" toSubLevel="1010">{base + subIndex}</value>
 			<value fromLevel="3" toLevel="4" fromSubLevel="1011" toSubLevel="1030">{base + 10 + 0.5 * subIndex}</value>
 		</abnormalTime>
@@ -2322,7 +2322,7 @@
 		<!-- For 30 sec., Atk. Spd. + 20% when equipped with a bow/crossbow. -->
 		<abnormalLvl>4</abnormalLvl>
 		<abnormalTime>
-			<value fromLevel="1" toLevel="4">30</value>
+			<value fromLevel="1" toLevel="4">3600</value>
 			<value fromLevel="3" toLevel="4" fromSubLevel="1001" toSubLevel="1010">{base + subIndex}</value>
 			<value fromLevel="3" toLevel="4" fromSubLevel="1011" toSubLevel="1030">{base + 10 + 0.5 * subIndex}</value>
 		</abnormalTime>
@@ -2572,7 +2572,7 @@
 		<!-- For 1 minute, opens the eye of infinity to increase Accuracy + 25, Critical Rate + 200, and Critical Damage + 70%. -->
 		<abnormalLvl>1</abnormalLvl>
 		<abnormalTime>
-			<value fromLevel="1" toLevel="4">60</value>
+			<value fromLevel="1" toLevel="4">3600</value>
 			<value fromLevel="3" toLevel="4" fromSubLevel="1001" toSubLevel="1010">{base + subIndex}</value>
 			<value fromLevel="3" toLevel="4" fromSubLevel="1011" toSubLevel="1030">{base + 10 + 0.5 * subIndex}</value>
 		</abnormalTime>

@@ -146,7 +146,7 @@
 		<!-- Increases all servitors' M. Def. by 30% for 30 minutes. -->
 		<icon>icon.skill1139</icon>
 		<abnormalLvl>3</abnormalLvl>
-		<abnormalTime>1800</abnormalTime>
+		<abnormalTime>3600</abnormalTime>
 		<abnormalType>MD_UP</abnormalType>
 		<operateType>A2</operateType>
 		<mpConsume>70</mpConsume>
@@ -178,7 +178,7 @@
 		<!-- Increases all servitors' Atk. Spd. by 34% for 30 minutes. -->
 		<icon>icon.skill1141</icon>
 		<abnormalLvl>2</abnormalLvl>
-		<abnormalTime>1800</abnormalTime>
+		<abnormalTime>3600</abnormalTime>
 		<abnormalType>ATTACK_TIME_DOWN</abnormalType>
 		<operateType>A2</operateType>
 		<mpConsume>70</mpConsume>
@@ -210,7 +210,7 @@
 		<!-- Increases all servitors' P. Def. by 15% for 30 minutes. -->
 		<icon>icon.skill1140</icon>
 		<abnormalLvl>3</abnormalLvl>
-		<abnormalTime>1800</abnormalTime>
+		<abnormalTime>3600</abnormalTime>
 		<abnormalType>PD_UP</abnormalType>
 		<operateType>A2</operateType>
 		<mpConsume>70</mpConsume>
@@ -242,7 +242,7 @@
 		<!-- Increases all servitors' M. Atk. by 79% for 30 minutes. -->
 		<icon>icon.skill1059</icon>
 		<abnormalLvl>3</abnormalLvl>
-		<abnormalTime>1800</abnormalTime>
+		<abnormalTime>3600</abnormalTime>
 		<abnormalType>MA_UP</abnormalType>
 		<operateType>A2</operateType>
 		<mpConsume>70</mpConsume>
@@ -274,7 +274,7 @@
 		<!-- Increases all servitors' P. Atk. by 17% for 30 minutes. -->
 		<icon>icon.skill1146</icon>
 		<abnormalLvl>3</abnormalLvl>
-		<abnormalTime>1800</abnormalTime>
+		<abnormalTime>3600</abnormalTime>
 		<abnormalType>PA_UP</abnormalType>
 		<operateType>A2</operateType>
 		<mpConsume>70</mpConsume>
@@ -306,7 +306,7 @@
 		<!-- Increases all servitors' Speed by 34 for 30 minutes. -->
 		<icon>icon.skill1144</icon>
 		<abnormalLvl>2</abnormalLvl>
-		<abnormalTime>1800</abnormalTime>
+		<abnormalTime>3600</abnormalTime>
 		<abnormalType>SPEED_UP</abnormalType>
 		<operateType>A2</operateType>
 		<mpConsume>70</mpConsume>
@@ -336,7 +336,7 @@
 		<!-- Updated to IO -->
 		<!-- Glory Days confirmed -->
 		<!-- Dispels debuffs on all servitors. -->
-		<abnormalTime>5</abnormalTime>
+		<abnormalTime>3600</abnormalTime>
 		<icon>icon.skill1301</icon>
 		<operateType>A2</operateType>
 		<mpConsume>70</mpConsume>
@@ -438,7 +438,7 @@
 		<icon>icon.skill1299</icon>
 		<abnormalLvl>2</abnormalLvl>
 		<abnormalTime>
-			<value fromLevel="1" toLevel="2">60</value>
+			<value fromLevel="1" toLevel="2">3600</value>
 			<value fromLevel="1" toLevel="2" fromSubLevel="1001" toSubLevel="1010">{base + subIndex}</value>
 			<value fromLevel="1" toLevel="2" fromSubLevel="1011" toSubLevel="1030">{base + 10 + 0.5 * subIndex}</value>
 		</abnormalTime>
@@ -1871,7 +1871,7 @@
 			<value level="3">3</value>
 			<value level="4">4</value>
 		</abnormalLvl>
-		<abnormalTime>1800</abnormalTime>
+		<abnormalTime>3600</abnormalTime>
 		<abnormalType>GREATER_SERVITOR_BUFF</abnormalType>
 		<operateType>A2</operateType>
 		<targetType>SUMMON</targetType>
@@ -1987,7 +1987,7 @@
 			<value level="3">3</value>
 			<value level="4">4</value>
 		</abnormalLvl>
-		<abnormalTime>1800</abnormalTime>
+		<abnormalTime>3600</abnormalTime>
 		<abnormalType>GREATER_SERVITOR_BUFF</abnormalType>
 		<operateType>A2</operateType>
 		<targetType>SUMMON</targetType>
@@ -3724,7 +3724,7 @@
 		<!-- Uses the power of nature to increase M. Atk. and M. Critical Rate for 30 seconds. Additionally increases your servitor's P. Atk. And success rate of Knock Back / Knock Down. Consumes 10 Spirit Ores. -->
 		<icon>icon.skill11387</icon>
 		<abnormalLvl>1</abnormalLvl>
-		<abnormalTime>30</abnormalTime>
+		<abnormalTime>3600</abnormalTime>
 		<abnormalType>BIG_BODY_COMBINATION</abnormalType>
 		<abnormalVisualEffect>BIG_BODY_COMBINATION_CAT_NPC</abnormalVisualEffect>
 		<itemConsumeCount>10</itemConsumeCount>

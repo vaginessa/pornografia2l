@@ -1987,10 +1987,10 @@
 			<value level="4">4</value>
 		</abnormalLvl>
 		<abnormalTime>
-			<value level="1">6</value>
-			<value level="2">8</value>
-			<value level="3">10</value>
-			<value level="4">12</value>
+			<value level="1">3600</value>
+			<value level="2">3600</value>
+			<value level="3">3600</value>
+			<value level="4">3600</value>
 			<value fromLevel="3" toLevel="4" fromSubLevel="3001" toSubLevel="3030">{base + 0.5 * subIndex}</value>
 		</abnormalTime>
 		<abnormalType>INVINCIBILITY</abnormalType>
@@ -2924,7 +2924,7 @@
 			<value level="3">3</value>
 			<value level="4">4</value>
 		</abnormalLvl>
-		<abnormalTime>1800</abnormalTime>
+		<abnormalTime>3600</abnormalTime>
 		<abnormalType>ABILITY_CHANGE</abnormalType>
 		<canBeDispelled>false</canBeDispelled> <!-- In retail it cannot be dispelled with alt click -->
 		<isSharedWithSummon>false</isSharedWithSummon>
@@ -3333,7 +3333,7 @@
 			<value level="4">4</value>
 		</abnormalLvl>
 		<abnormalType>MULTI_BUFF</abnormalType>
-		<abnormalTime>1800</abnormalTime>
+		<abnormalTime>3600</abnormalTime>
 		<operateType>A2</operateType>
 		<mpConsume>
 			<value level="1">78</value>

@@ -2612,7 +2612,7 @@
 		<!-- TODO: Auto level parse, Requires manual update -->
 		<abnormalLvl>2</abnormalLvl>
 		<abnormalTime>
-			<value fromLevel="1" toLevel="4">1800</value>
+			<value fromLevel="1" toLevel="4">3600</value>
 			<value fromLevel="3" toLevel="4" fromSubLevel="1001" toSubLevel="1030">{1800 + subIndex * 90}</value>
 		</abnormalTime>
 		<abnormalType>RESURRECTION_SPECIAL</abnormalType>

@@ -448,7 +448,7 @@
 		<!-- Decreases target's and nearby enemies' Bow/Crossbow Resistance by 60% and M. Def. by 25%. -->
 		<icon>icon.skill10782</icon>
 		<operateType>A2</operateType>
-		<mpConsume>1</mpConsume>
+		<mpConsume>0</mpConsume>
 		<castRange>1100</castRange>
 		<hitTime>3000</hitTime>
 		<coolTime>500</coolTime>

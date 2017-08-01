@@ -1022,7 +1022,7 @@
 		<hitCancelTime>0</hitCancelTime>
 		<magicLvl>85</magicLvl>
 		<abnormalLvl>1</abnormalLvl>
-		<abnormalTime>60</abnormalTime>
+		<abnormalTime>3600</abnormalTime>
 		<isMagic>1</isMagic>
 		<targetType>TARGET</targetType>
 		<affectScope>SINGLE</affectScope>

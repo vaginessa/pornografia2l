@@ -1,13 +1,103 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c6e1627f-6240-43fc-9e8b-926cdb2e946e" name="Default" comment="" />
+    <list default="true" id="c6e1627f-6240-43fc-9e8b-926cdb2e946e" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/game/config/Character.ini" afterPath="$PROJECT_DIR$/game/config/Character.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/game/config/General.ini" afterPath="$PROJECT_DIR$/game/config/General.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/game/data/stats/skills/00400-00499.xml" afterPath="$PROJECT_DIR$/game/data/stats/skills/00400-00499.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/game/data/stats/skills/01300-01399.xml" afterPath="$PROJECT_DIR$/game/data/stats/skills/01300-01399.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/game/data/stats/skills/01600-01699.xml" afterPath="$PROJECT_DIR$/game/data/stats/skills/01600-01699.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/game/data/stats/skills/10000-10099.xml" afterPath="$PROJECT_DIR$/game/data/stats/skills/10000-10099.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/game/data/stats/skills/10200-10299.xml" afterPath="$PROJECT_DIR$/game/data/stats/skills/10200-10299.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/game/data/stats/skills/10300-10399.xml" afterPath="$PROJECT_DIR$/game/data/stats/skills/10300-10399.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/game/data/stats/skills/10500-10599.xml" afterPath="$PROJECT_DIR$/game/data/stats/skills/10500-10599.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/game/data/stats/skills/10700-10799.xml" afterPath="$PROJECT_DIR$/game/data/stats/skills/10700-10799.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/game/data/stats/skills/10800-10899.xml" afterPath="$PROJECT_DIR$/game/data/stats/skills/10800-10899.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/game/data/stats/skills/11000-11099.xml" afterPath="$PROJECT_DIR$/game/data/stats/skills/11000-11099.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/game/data/stats/skills/11200-11299.xml" afterPath="$PROJECT_DIR$/game/data/stats/skills/11200-11299.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/game/data/stats/skills/11300-11399.xml" afterPath="$PROJECT_DIR$/game/data/stats/skills/11300-11399.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/game/data/stats/skills/11500-11599.xml" afterPath="$PROJECT_DIR$/game/data/stats/skills/11500-11599.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/game/data/stats/skills/11700-11799.xml" afterPath="$PROJECT_DIR$/game/data/stats/skills/11700-11799.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/game/data/stats/skills/11800-11899.xml" afterPath="$PROJECT_DIR$/game/data/stats/skills/11800-11899.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/game/data/stats/skills/19200-19299.xml" afterPath="$PROJECT_DIR$/game/data/stats/skills/19200-19299.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/game/data/stats/skills/21000-21099.xml" afterPath="$PROJECT_DIR$/game/data/stats/skills/21000-21099.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/game/data/stats/skills/23400-23499.xml" afterPath="$PROJECT_DIR$/game/data/stats/skills/23400-23499.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/game/data/stats/skills/23700-23799.xml" afterPath="$PROJECT_DIR$/game/data/stats/skills/23700-23799.xml" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand>
+      <path>
+        <item name="" type="eadb38e5:DatabaseStructure$Root" />
+        <item name="mzgk_l2j@mzgk.com.ve" type="e3449647:DbNodeDescriptor" />
+      </path>
+      <path>
+        <item name="" type="eadb38e5:DatabaseStructure$Root" />
+        <item name="mzgk_l2j@mzgk.com.ve" type="e3449647:DbNodeDescriptor" />
+        <item name="mzgk_l2j" type="e3449647:DbNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="00400-00499.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/game/data/stats/skills/00400-00499.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="186">
+              <caret line="2614" column="57" lean-forward="true" selection-start-line="2614" selection-start-column="57" selection-end-line="2614" selection-end-column="57" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>auto</find>
+      <find>buff</find>
+      <find>SkillDurationList</find>
+      <find>Dead Eye Stance</find>
+      <find>final ultimate escape</find>
+      <find>sniping</find>
+      <find>bullseye</find>
+      <find>Yul Aura</find>
+      <find>Shadow Das</find>
+      <find>name=&quot;wizard's</find>
+    </findStrings>
+    <dirStrings>
+      <dir>D:\l2j\server helios 2212\game\data\stats\skills</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/game/config/General.ini" />
+        <option value="$PROJECT_DIR$/game/config/Character.ini" />
+        <option value="$PROJECT_DIR$/game/data/stats/skills/10700-10799.xml" />
+        <option value="$PROJECT_DIR$/game/data/stats/skills/10800-10899.xml" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -21,6 +111,9 @@
     <option name="y" value="-8" />
     <option name="width" value="1382" />
     <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -48,7 +141,13 @@
             <path>
               <item name="server helios 2212" type="b2602c69:ProjectViewProjectNode" />
               <item name="server helios 2212" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="db_installer" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="game" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="server helios 2212" type="b2602c69:ProjectViewProjectNode" />
+              <item name="server helios 2212" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="game" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="data" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
@@ -65,6 +164,7 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
     <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -89,33 +189,36 @@
       <option name="presentableId" value="Default" />
       <updated>1501453730375</updated>
       <workItem from="1501453733091" duration="1019000" />
+      <workItem from="1501455535601" duration="15192000" />
+      <workItem from="1501505112791" duration="18000" />
+      <workItem from="1501549757965" duration="1687000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1019000" />
+    <option name="totallyTimeSpent" value="17916000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928804" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27987897" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30786687" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -125,8 +228,717 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Actualizacion de los skill (Buff)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Actualizacion de los skill (Buff)" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/game/config/AbilityPoints.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/game/config/AccessLevels.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login/config/Email.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="56" column="41" lean-forward="true" selection-start-line="56" selection-start-column="41" selection-end-line="56" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/game/data/lang/documentation.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-765">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/game/data/xsd/AccessLevels.xsd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/game/config/Rates.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2372">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/game/config/Server.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2508">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/game/config/Telnet.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/game/data/PrimeShop.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/game/data/SkillLearn.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/game/config/General.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="18" column="20" lean-forward="true" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/25282127-2e7b-40a0-8063-39206d0fb2d7/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://table:/eb457064/25282127-2e7b-40a0-8063-39206d0fb2d7/mzgk_l2j.characters">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/game/config/ipconfig.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="13" lean-forward="true" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/game/data/geodata/Readme.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/game/data/stats/skills/search.cmd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/game/data/stats/skills/documentation.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1479">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/game/config/Custom/AllowedPlayerRaces.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/game/data/stats/statBonus.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/game/data/stats/experience.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1474">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/game/data/stats/chars/playerXpPercentLost.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/game/data/stats/chars/classList.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/game/config/Character.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="62" column="16" lean-forward="true" selection-start-line="62" selection-start-column="16" selection-end-line="62" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/game/data/stats/skills/10700-10799.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="2247" column="41" lean-forward="false" selection-start-line="2247" selection-start-column="41" selection-end-line="2247" selection-end-column="41" />
+          <folding>
+            <element signature="n#skill#0;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#magicLvl#0;n#skill#0;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#mpConsume#0;n#skill#0;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#conditions#0;n#skill#0;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#condition#0;n#conditions#0;n#skill#0;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#weaponType#0;n#condition#0;n#conditions#0;n#skill#0;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effects#0;n#skill#0;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effect#0;n#effects#0;n#skill#0;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#power#0;n#effect#0;n#effects#0;n#skill#0;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#pDefMod#0;n#effect#0;n#effects#0;n#skill#0;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#skill#1;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#magicLvl#0;n#skill#1;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effects#0;n#skill#1;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effect#0;n#effects#0;n#skill#1;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#amount#0;n#effect#0;n#effects#0;n#skill#1;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effect#1;n#effects#0;n#skill#1;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#amount#0;n#effect#1;n#effects#0;n#skill#1;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effect#2;n#effects#0;n#skill#1;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#amount#0;n#effect#2;n#effects#0;n#skill#1;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effect#3;n#effects#0;n#skill#1;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effect#4;n#effects#0;n#skill#1;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effect#5;n#effects#0;n#skill#1;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#skill#2;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#magicLvl#0;n#skill#2;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#mpConsume#0;n#skill#2;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#conditions#0;n#skill#2;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#condition#0;n#conditions#0;n#skill#2;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#weaponType#0;n#condition#0;n#conditions#0;n#skill#2;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effects#0;n#skill#2;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effect#0;n#effects#0;n#skill#2;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#power#0;n#effect#0;n#effects#0;n#skill#2;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#pDefMod#0;n#effect#0;n#effects#0;n#skill#2;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#skill#3;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#activateRate#0;n#skill#3;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#mpConsume#0;n#skill#3;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effects#0;n#skill#3;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#skill#4;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#activateRate#0;n#skill#4;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#conditions#0;n#skill#4;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#condition#0;n#conditions#0;n#skill#4;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#weaponType#0;n#condition#0;n#conditions#0;n#skill#4;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effects#0;n#skill#4;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effect#0;n#effects#0;n#skill#4;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effect#1;n#effects#0;n#skill#4;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effect#2;n#effects#0;n#skill#4;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#skill#5;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effects#0;n#skill#5;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effect#0;n#effects#0;n#skill#5;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effect#1;n#effects#0;n#skill#5;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effect#2;n#effects#0;n#skill#5;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effect#3;n#effects#0;n#skill#5;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effect#4;n#effects#0;n#skill#5;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#skill#6;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#skill#7;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#conditions#0;n#skill#7;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#condition#0;n#conditions#0;n#skill#7;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#weaponType#0;n#condition#0;n#conditions#0;n#skill#7;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effects#0;n#skill#7;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effect#2;n#effects#0;n#skill#7;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effect#3;n#effects#0;n#skill#7;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effect#4;n#effects#0;n#skill#7;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#skill#8;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#conditions#0;n#skill#8;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#condition#0;n#conditions#0;n#skill#8;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effects#0;n#skill#8;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effect#0;n#effects#0;n#skill#8;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#skill#9;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#conditions#0;n#skill#9;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#condition#0;n#conditions#0;n#skill#9;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effects#0;n#skill#9;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effect#0;n#effects#0;n#skill#9;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#skill#10;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#magicLvl#0;n#skill#10;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effects#0;n#skill#10;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effect#0;n#effects#0;n#skill#10;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#weaponType#0;n#effect#0;n#effects#0;n#skill#10;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effect#1;n#effects#0;n#skill#10;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effect#2;n#effects#0;n#skill#10;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#amount#0;n#effect#2;n#effects#0;n#skill#10;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#weaponType#0;n#effect#2;n#effects#0;n#skill#10;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effect#3;n#effects#0;n#skill#10;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#weaponType#0;n#effect#3;n#effects#0;n#skill#10;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effect#4;n#effects#0;n#skill#10;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#weaponType#0;n#effect#4;n#effects#0;n#skill#10;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effect#5;n#effects#0;n#skill#10;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#skill#11;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#magicLvl#0;n#skill#11;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effects#0;n#skill#11;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effect#0;n#effects#0;n#skill#11;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#amount#0;n#effect#0;n#effects#0;n#skill#11;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#armorType#0;n#effect#0;n#effects#0;n#skill#11;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effect#1;n#effects#0;n#skill#11;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#armorType#0;n#effect#1;n#effects#0;n#skill#11;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effect#2;n#effects#0;n#skill#11;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#armorType#0;n#effect#2;n#effects#0;n#skill#11;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effect#3;n#effects#0;n#skill#11;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#armorType#0;n#effect#3;n#effects#0;n#skill#11;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effect#4;n#effects#0;n#skill#11;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effect#5;n#effects#0;n#skill#11;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#armorType#0;n#effect#5;n#effects#0;n#skill#11;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effect#6;n#effects#0;n#skill#11;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effect#7;n#effects#0;n#skill#11;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#skill#12;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effects#0;n#skill#12;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effect#0;n#effects#0;n#skill#12;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#weaponType#0;n#effect#0;n#effects#0;n#skill#12;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effect#1;n#effects#0;n#skill#12;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#weaponType#0;n#effect#1;n#effects#0;n#skill#12;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effect#2;n#effects#0;n#skill#12;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#weaponType#0;n#effect#2;n#effects#0;n#skill#12;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#skill#13;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#magicLvl#0;n#skill#13;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effects#0;n#skill#13;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effect#0;n#effects#0;n#skill#13;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effect#1;n#effects#0;n#skill#13;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#amount#0;n#effect#1;n#effects#0;n#skill#13;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effect#2;n#effects#0;n#skill#13;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effect#3;n#effects#0;n#skill#13;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effect#4;n#effects#0;n#skill#13;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#skill#14;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#magicLvl#0;n#skill#14;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effects#0;n#skill#14;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effect#0;n#effects#0;n#skill#14;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#HOLD#0;n#effect#0;n#effects#0;n#skill#14;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#DERANGEMENT#0;n#effect#0;n#effects#0;n#skill#14;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#BLEED#0;n#effect#0;n#effects#0;n#skill#14;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#PARALYZE#0;n#effect#0;n#effects#0;n#skill#14;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#SLEEP#0;n#effect#0;n#effects#0;n#skill#14;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#SHOCK#0;n#effect#0;n#effects#0;n#skill#14;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#POISON#0;n#effect#0;n#effects#0;n#skill#14;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effect#1;n#effects#0;n#skill#14;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effect#2;n#effects#0;n#skill#14;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effect#3;n#effects#0;n#skill#14;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#skill#15;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#magicLvl#0;n#skill#15;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effects#0;n#skill#15;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effect#0;n#effects#0;n#skill#15;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#amount#0;n#effect#0;n#effects#0;n#skill#15;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effect#1;n#effects#0;n#skill#15;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effect#2;n#effects#0;n#skill#15;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effect#3;n#effects#0;n#skill#15;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#skill#16;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#abnormalLvl#0;n#skill#16;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#abnormalTime#0;n#skill#16;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#magicLvl#0;n#skill#16;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effects#0;n#skill#16;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effect#0;n#effects#0;n#skill#16;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#amount#0;n#effect#0;n#effects#0;n#skill#16;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#weaponType#0;n#effect#0;n#effects#0;n#skill#16;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effect#1;n#effects#0;n#skill#16;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#amount#0;n#effect#1;n#effects#0;n#skill#16;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#weaponType#0;n#effect#1;n#effects#0;n#skill#16;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effect#2;n#effects#0;n#skill#16;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#amount#0;n#effect#2;n#effects#0;n#skill#16;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effect#3;n#effects#0;n#skill#16;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#amount#0;n#effect#3;n#effects#0;n#skill#16;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#skill#17;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#abnormalLvl#0;n#skill#17;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#abnormalTime#0;n#skill#17;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#magicLvl#0;n#skill#17;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effects#0;n#skill#17;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effect#0;n#effects#0;n#skill#17;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#amount#0;n#effect#0;n#effects#0;n#skill#17;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#weaponType#0;n#effect#0;n#effects#0;n#skill#17;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effect#1;n#effects#0;n#skill#17;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#amount#0;n#effect#1;n#effects#0;n#skill#17;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#weaponType#0;n#effect#1;n#effects#0;n#skill#17;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effect#2;n#effects#0;n#skill#17;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#amount#0;n#effect#2;n#effects#0;n#skill#17;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effect#3;n#effects#0;n#skill#17;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#amount#0;n#effect#3;n#effects#0;n#skill#17;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#skill#18;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#abnormalLvl#0;n#skill#18;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#abnormalTime#0;n#skill#18;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#magicLvl#0;n#skill#18;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effects#0;n#skill#18;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effect#0;n#effects#0;n#skill#18;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#amount#0;n#effect#0;n#effects#0;n#skill#18;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#weaponType#0;n#effect#0;n#effects#0;n#skill#18;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effect#1;n#effects#0;n#skill#18;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#amount#0;n#effect#1;n#effects#0;n#skill#18;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#weaponType#0;n#effect#1;n#effects#0;n#skill#18;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effect#2;n#effects#0;n#skill#18;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#amount#0;n#effect#2;n#effects#0;n#skill#18;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effect#3;n#effects#0;n#skill#18;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#amount#0;n#effect#3;n#effects#0;n#skill#18;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#skill#19;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#mpConsume#0;n#skill#19;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#magicLvl#0;n#skill#19;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effectPoint#0;n#skill#19;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#fanRange#0;n#skill#19;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#alterSkill#0;n#skill#19;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#conditions#0;n#skill#19;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#condition#0;n#conditions#0;n#skill#19;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#weaponType#0;n#condition#0;n#conditions#0;n#skill#19;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effects#0;n#skill#19;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effect#0;n#effects#0;n#skill#19;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#power#0;n#effect#0;n#effects#0;n#skill#19;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#criticalChance#0;n#effect#0;n#effects#0;n#skill#19;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#pDefMod#0;n#effect#0;n#effects#0;n#skill#19;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#skill#20;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#activateRate#0;n#skill#20;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#magicLvl#0;n#skill#20;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#mpConsume#0;n#skill#20;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effectPoint#0;n#skill#20;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#conditions#0;n#skill#20;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#condition#0;n#conditions#0;n#skill#20;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#weaponType#0;n#condition#0;n#conditions#0;n#skill#20;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effects#0;n#skill#20;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effect#0;n#effects#0;n#skill#20;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#power#0;n#effect#0;n#effects#0;n#skill#20;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effect#1;n#effects#0;n#skill#20;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effect#2;n#effects#0;n#skill#20;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#skill#21;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#magicLvl#0;n#skill#21;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#mpConsume#0;n#skill#21;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effectPoint#0;n#skill#21;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#conditions#0;n#skill#21;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#condition#0;n#conditions#0;n#skill#21;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#weaponType#0;n#condition#0;n#conditions#0;n#skill#21;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effects#0;n#skill#21;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effect#0;n#effects#0;n#skill#21;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#power#0;n#effect#0;n#effects#0;n#skill#21;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#criticalChance#0;n#effect#0;n#effects#0;n#skill#21;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#pDefMod#0;n#effect#0;n#effects#0;n#skill#21;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#skill#22;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#magicLvl#0;n#skill#22;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#mpConsume#0;n#skill#22;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effectPoint#0;n#skill#22;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#conditions#0;n#skill#22;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#condition#0;n#conditions#0;n#skill#22;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#weaponType#0;n#condition#0;n#conditions#0;n#skill#22;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effects#0;n#skill#22;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effect#0;n#effects#0;n#skill#22;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#power#0;n#effect#0;n#effects#0;n#skill#22;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#criticalChance#0;n#effect#0;n#effects#0;n#skill#22;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#pDefMod#0;n#effect#0;n#effects#0;n#skill#22;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effect#1;n#effects#0;n#skill#22;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#skill#23;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effects#0;n#skill#23;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effect#0;n#effects#0;n#skill#23;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#skill#24;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effects#0;n#skill#24;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effect#0;n#effects#0;n#skill#24;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#skill#25;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effects#0;n#skill#25;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effect#0;n#effects#0;n#skill#25;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#skill#26;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effects#0;n#skill#26;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effect#0;n#effects#0;n#skill#26;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#skill#27;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#conditions#0;n#skill#27;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#condition#0;n#conditions#0;n#skill#27;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effects#0;n#skill#27;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effect#0;n#effects#0;n#skill#27;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#selfEffects#0;n#skill#27;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effect#0;n#selfEffects#0;n#skill#27;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#skill#28;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#activateRate#0;n#skill#28;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#magicLvl#0;n#skill#28;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#mpConsume#0;n#skill#28;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effectPoint#0;n#skill#28;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#conditions#0;n#skill#28;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#condition#0;n#conditions#0;n#skill#28;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#weaponType#0;n#condition#0;n#conditions#0;n#skill#28;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effects#0;n#skill#28;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effect#0;n#effects#0;n#skill#28;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#power#0;n#effect#0;n#effects#0;n#skill#28;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#criticalChance#0;n#effect#0;n#effects#0;n#skill#28;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effect#1;n#effects#0;n#skill#28;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#skill#29;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#activateRate#0;n#skill#29;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#magicLvl#0;n#skill#29;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#mpConsume#0;n#skill#29;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effectPoint#0;n#skill#29;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#conditions#0;n#skill#29;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#condition#0;n#conditions#0;n#skill#29;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#weaponType#0;n#condition#0;n#conditions#0;n#skill#29;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effects#0;n#skill#29;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effect#0;n#effects#0;n#skill#29;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#power#0;n#effect#0;n#effects#0;n#skill#29;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#criticalChance#0;n#effect#0;n#effects#0;n#skill#29;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effect#1;n#effects#0;n#skill#29;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effect#2;n#effects#0;n#skill#29;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#skill#30;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#magicLvl#0;n#skill#30;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#mpConsume#0;n#skill#30;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effectPoint#0;n#skill#30;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#conditions#0;n#skill#30;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#condition#0;n#conditions#0;n#skill#30;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#weaponType#0;n#condition#0;n#conditions#0;n#skill#30;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effects#0;n#skill#30;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effect#0;n#effects#0;n#skill#30;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#power#0;n#effect#0;n#effects#0;n#skill#30;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#criticalChance#0;n#effect#0;n#effects#0;n#skill#30;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#pDefMod#0;n#effect#0;n#effects#0;n#skill#30;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#skill#31;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#magicLvl#0;n#skill#31;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#mpConsume#0;n#skill#31;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effectPoint#0;n#skill#31;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#conditions#0;n#skill#31;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#condition#0;n#conditions#0;n#skill#31;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#weaponType#0;n#condition#0;n#conditions#0;n#skill#31;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effects#0;n#skill#31;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effect#0;n#effects#0;n#skill#31;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#power#0;n#effect#0;n#effects#0;n#skill#31;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#criticalChance#0;n#effect#0;n#effects#0;n#skill#31;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#pDefMod#0;n#effect#0;n#effects#0;n#skill#31;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#skill#32;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#conditions#0;n#skill#32;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#condition#0;n#conditions#0;n#skill#32;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#weaponType#0;n#condition#0;n#conditions#0;n#skill#32;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#skill#33;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#magicLvl#0;n#skill#33;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#mpConsume#0;n#skill#33;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#castRange#0;n#skill#33;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effectRange#0;n#skill#33;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#conditions#0;n#skill#33;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#condition#0;n#conditions#0;n#skill#33;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#range#0;n#condition#0;n#conditions#0;n#skill#33;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#skill#34;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#magicLvl#0;n#skill#34;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#mpConsume#0;n#skill#34;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effects#0;n#skill#34;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effect#0;n#effects#0;n#skill#34;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effect#1;n#effects#0;n#skill#34;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#power#0;n#effect#1;n#effects#0;n#skill#34;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effect#2;n#effects#0;n#skill#34;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#power#0;n#effect#2;n#effects#0;n#skill#34;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#skill#35;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#magicLvl#0;n#skill#35;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#mpConsume#0;n#skill#35;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effects#0;n#skill#35;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effect#0;n#effects#0;n#skill#35;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#amount#0;n#effect#0;n#effects#0;n#skill#35;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effect#1;n#effects#0;n#skill#35;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effect#2;n#effects#0;n#skill#35;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#amount#0;n#effect#2;n#effects#0;n#skill#35;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effect#3;n#effects#0;n#skill#35;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#amount#0;n#effect#3;n#effects#0;n#skill#35;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effect#4;n#effects#0;n#skill#35;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effect#5;n#effects#0;n#skill#35;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#amount#0;n#effect#5;n#effects#0;n#skill#35;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#skill#36;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#magicLvl#0;n#skill#36;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#conditions#0;n#skill#36;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#condition#0;n#conditions#0;n#skill#36;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#weaponType#0;n#condition#0;n#conditions#0;n#skill#36;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effects#0;n#skill#36;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effect#2;n#effects#0;n#skill#36;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#skill#37;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#conditions#0;n#skill#37;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#condition#0;n#conditions#0;n#skill#37;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effects#0;n#skill#37;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#skill#38;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#magicLvl#0;n#skill#38;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#mpConsume#0;n#skill#38;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effects#0;n#skill#38;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effect#0;n#effects#0;n#skill#38;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#amount#0;n#effect#0;n#effects#0;n#skill#38;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#weaponType#0;n#effect#0;n#effects#0;n#skill#38;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effect#1;n#effects#0;n#skill#38;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#amount#0;n#effect#1;n#effects#0;n#skill#38;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effect#2;n#effects#0;n#skill#38;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#amount#0;n#effect#2;n#effects#0;n#skill#38;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#skill#39;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#activateRate#0;n#skill#39;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#magicLvl#0;n#skill#39;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#mpConsume#0;n#skill#39;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effectPoint#0;n#skill#39;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#conditions#0;n#skill#39;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#condition#0;n#conditions#0;n#skill#39;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#weaponType#0;n#condition#0;n#conditions#0;n#skill#39;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effects#0;n#skill#39;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effect#0;n#effects#0;n#skill#39;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#power#0;n#effect#0;n#effects#0;n#skill#39;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#criticalChance#0;n#effect#0;n#effects#0;n#skill#39;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effect#1;n#effects#0;n#skill#39;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#skill#40;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#magicLvl#0;n#skill#40;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#conditions#0;n#skill#40;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#condition#0;n#conditions#0;n#skill#40;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#weaponType#0;n#condition#0;n#conditions#0;n#skill#40;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effects#0;n#skill#40;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effect#0;n#effects#0;n#skill#40;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#power#0;n#effect#0;n#effects#0;n#skill#40;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#criticalChance#0;n#effect#0;n#effects#0;n#skill#40;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#pDefMod#0;n#effect#0;n#effects#0;n#skill#40;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#skill#41;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#conditions#0;n#skill#41;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#condition#0;n#conditions#0;n#skill#41;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#weaponType#0;n#condition#0;n#conditions#0;n#skill#41;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effects#0;n#skill#41;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effect#0;n#effects#0;n#skill#41;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#magicLvl#0;n#skill#42;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#mpConsume#0;n#skill#42;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effects#0;n#skill#42;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effect#0;n#effects#0;n#skill#42;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#amount#0;n#effect#0;n#effects#0;n#skill#42;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effect#1;n#effects#0;n#skill#42;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#amount#0;n#effect#1;n#effects#0;n#skill#42;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effect#2;n#effects#0;n#skill#42;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#amount#0;n#effect#2;n#effects#0;n#skill#42;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effect#3;n#effects#0;n#skill#42;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#amount#0;n#effect#3;n#effects#0;n#skill#42;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#skill#43;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#abnormalTime#0;n#skill#43;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effects#0;n#skill#43;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effect#0;n#effects#0;n#skill#43;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effect#1;n#effects#0;n#skill#43;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#skill#44;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#abnormalTime#0;n#skill#44;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#magicLvl#0;n#skill#44;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#conditions#0;n#skill#44;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#condition#0;n#conditions#0;n#skill#44;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#weaponType#0;n#condition#0;n#conditions#0;n#skill#44;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effects#0;n#skill#44;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effect#1;n#effects#0;n#skill#44;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effect#2;n#effects#0;n#skill#44;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effect#3;n#effects#0;n#skill#44;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#skill#45;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#magicLvl#0;n#skill#45;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#mpConsume#0;n#skill#45;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effectPoint#0;n#skill#45;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effects#0;n#skill#45;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effect#0;n#effects#0;n#skill#45;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#endEffects#0;n#skill#45;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effect#0;n#endEffects#0;n#skill#45;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#skillLevel#0;n#effect#0;n#endEffects#0;n#skill#45;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#skill#46;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#magicLvl#0;n#skill#46;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#mpConsume#0;n#skill#46;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#conditions#0;n#skill#46;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effects#0;n#skill#46;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effect#0;n#effects#0;n#skill#46;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#npcId#0;n#effect#0;n#effects#0;n#skill#46;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#skill#47;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#skill#48;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#conditions#0;n#skill#48;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#condition#0;n#conditions#0;n#skill#48;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#npcIds#0;n#condition#0;n#conditions#0;n#skill#48;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effects#0;n#skill#48;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effect#0;n#effects#0;n#skill#48;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#skill#49;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#conditions#0;n#skill#49;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#condition#0;n#conditions#0;n#skill#49;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#npcIds#0;n#condition#0;n#conditions#0;n#skill#49;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effects#0;n#skill#49;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effect#0;n#effects#0;n#skill#49;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#skill#50;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#magicLvl#0;n#skill#50;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#conditions#0;n#skill#50;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#condition#0;n#conditions#0;n#skill#50;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#npcIds#0;n#condition#0;n#conditions#0;n#skill#50;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effects#0;n#skill#50;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effect#0;n#effects#0;n#skill#50;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#skill#51;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#conditions#0;n#skill#51;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#condition#0;n#conditions#0;n#skill#51;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#npcIds#0;n#condition#0;n#conditions#0;n#skill#51;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effects#0;n#skill#51;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effect#0;n#effects#0;n#skill#51;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#skill#52;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effects#0;n#skill#52;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effect#1;n#effects#0;n#skill#52;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effect#2;n#effects#0;n#skill#52;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effect#4;n#effects#0;n#skill#52;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#amount#0;n#effect#4;n#effects#0;n#skill#52;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effect#5;n#effects#0;n#skill#52;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#amount#0;n#effect#5;n#effects#0;n#skill#52;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#skill#53;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#magicLvl#0;n#skill#53;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effectPoint#0;n#skill#53;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#conditions#0;n#skill#53;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#condition#0;n#conditions#0;n#skill#53;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#skill#54;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effects#0;n#skill#54;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effect#0;n#effects#0;n#skill#54;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#skill#55;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effects#0;n#skill#55;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effect#0;n#effects#0;n#skill#55;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effect#1;n#effects#0;n#skill#55;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#skill#56;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#magicLvl#0;n#skill#56;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#mpConsume#0;n#skill#56;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effectPoint#0;n#skill#56;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effects#0;n#skill#56;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effect#0;n#effects#0;n#skill#56;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#power#0;n#effect#0;n#effects#0;n#skill#56;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#skill#57;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#magicLvl#0;n#skill#57;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#mpConsume#0;n#skill#57;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effectPoint#0;n#skill#57;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effects#0;n#skill#57;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effect#0;n#effects#0;n#skill#57;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#power#0;n#effect#0;n#effects#0;n#skill#57;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effect#1;n#effects#0;n#skill#57;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#power#0;n#effect#1;n#effects#0;n#skill#57;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#skill#58;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#magicLvl#0;n#skill#58;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effects#0;n#skill#58;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effect#0;n#effects#0;n#skill#58;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effect#1;n#effects#0;n#skill#58;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#amount#0;n#effect#1;n#effects#0;n#skill#58;n#list#0;n#!!top" expanded="false" />
+            <element signature="n#effect#2;n#effects#0;n#skill#58;n#list#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/game/data/stats/skills/10800-10899.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1666">
+          <caret line="184" column="24" lean-forward="true" selection-start-line="184" selection-start-column="24" selection-end-line="184" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/game/data/stats/skills/23700-23799.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="450" column="0" lean-forward="false" selection-start-line="450" selection-start-column="0" selection-end-line="450" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/game/data/stats/skills/00400-00499.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="2614" column="57" lean-forward="true" selection-start-line="2614" selection-start-column="57" selection-end-line="2614" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>

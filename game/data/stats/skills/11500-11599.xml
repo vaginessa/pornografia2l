@@ -1150,7 +1150,7 @@
 			<value level="4">4</value>
 		</abnormalLvl>
 		<abnormalTime>
-			<value fromLevel="1" toLevel="4">1800</value>
+			<value fromLevel="1" toLevel="4">3600</value>
 			<value fromLevel="3" toLevel="4" fromSubLevel="1001" toSubLevel="1030">{base + subIndex * 90}</value>
 		</abnormalTime>
 		<abnormalType>BUFF_SPECIAL_ATTACK</abnormalType>
@@ -1249,7 +1249,7 @@
 		</abnormalLvl>
 		<abnormalType>BUFF_SPECIAL_DEFENCE</abnormalType>
 		<abnormalTime>
-			<value fromLevel="1" toLevel="4">1800</value>
+			<value fromLevel="1" toLevel="4">3600</value>
 			<value fromLevel="3" toLevel="4" fromSubLevel="1001" toSubLevel="1030">{base + subIndex * 90}</value>
 		</abnormalTime>
 		<affectRange>1000</affectRange>
@@ -1388,7 +1388,7 @@
 		</abnormalLvl>
 		<abnormalType>BUFF_SPECIAL_CONDITION</abnormalType>
 		<abnormalTime>
-			<value fromLevel="1" toLevel="4">1800</value>
+			<value fromLevel="1" toLevel="4">3600</value>
 			<value fromLevel="3" toLevel="4" fromSubLevel="1001" toSubLevel="1030">{base + subIndex * 90}</value>
 		</abnormalTime>
 		<affectRange>1000</affectRange>
@@ -1491,7 +1491,7 @@
 		</abnormalLvl>
 		<abnormalType>BUFF_SPECIAL_CRITICAL</abnormalType>
 		<abnormalTime>
-			<value fromLevel="1" toLevel="4">1800</value>
+			<value fromLevel="1" toLevel="4">3600</value>
 			<value fromLevel="3" toLevel="4" fromSubLevel="1001" toSubLevel="1030">{base + subIndex * 90}</value>
 		</abnormalTime>
 		<affectRange>1000</affectRange>
@@ -1594,7 +1594,7 @@
 			<value level="4">4</value>
 		</abnormalLvl>
 		<abnormalTime>
-			<value fromLevel="1" toLevel="4">1800</value>
+			<value fromLevel="1" toLevel="4">3600</value>
 			<value fromLevel="3" toLevel="4" fromSubLevel="1001" toSubLevel="1030">{base + subIndex * 90}</value>
 		</abnormalTime>
 		<abnormalType>BUFF_SPECIAL_HITAVOID</abnormalType>
@@ -1702,7 +1702,7 @@
 		</abnormalLvl>
 		<abnormalType>BUFF_SPECIAL_MOVE</abnormalType>
 		<abnormalTime>
-			<value fromLevel="1" toLevel="4">1800</value>
+			<value fromLevel="1" toLevel="4">3600</value>
 			<value fromLevel="3" toLevel="4" fromSubLevel="1001" toSubLevel="1030">{base + subIndex * 90}</value>
 		</abnormalTime>
 		<affectRange>1000</affectRange>
@@ -1785,7 +1785,7 @@
 		<!-- For 30 minutes, the selected party member's P. Atk. + 12%, P. Critical Damage + 35%, P. Critical Rate + 100%, P. Def. + 45%, Shield Defense Rate + 30% and Shield Defense + 50%. -->
 		<abnormalLvl>1</abnormalLvl>
 		<abnormalTime>
-			<value fromLevel="1" toLevel="1">1800</value>
+			<value fromLevel="1" toLevel="1">3600</value>
 			<value fromLevel="1" toLevel="1" fromSubLevel="1001" toSubLevel="1030">{base + subIndex * 90}</value>
 		</abnormalTime>
 		<abnormalType>BUFF_SPECIAL_CLASS</abnormalType>
@@ -1850,7 +1850,7 @@
 		<!-- For 30 minutes, the selected party member's P. Atk. + 35%, P. Critical Damage + 35%, P. Critical Rate + 100%, Atk. Spd. + 8%, M. Atk. + 16%, Casting Spd. + 8% and Speed + 8. -->
 		<abnormalLvl>1</abnormalLvl>
 		<abnormalTime>
-			<value fromLevel="1" toLevel="1">1800</value>
+			<value fromLevel="1" toLevel="1">3600</value>
 			<value fromLevel="1" toLevel="1" fromSubLevel="1001" toSubLevel="1030">{base + subIndex * 90}</value>
 		</abnormalTime>
 		<abnormalType>BUFF_SPECIAL_CLASS</abnormalType>
@@ -1919,7 +1919,7 @@
 		<!-- For 30 minutes, the selected party member's M. Atk. + 40%, M. Critical Rate + 100%, Casting Spd. + 8%, P. Atk. + 8%, Atk. Spd. + 8%, Speed + 8, M. Def. + 14%, MP Recovery Bonus + 20%, MP Consumption for magic skills - 15% and physical skills -5%, and Cooldown - 20%. -->
 		<abnormalLvl>1</abnormalLvl>
 		<abnormalTime>
-			<value fromLevel="1" toLevel="1">1800</value>
+			<value fromLevel="1" toLevel="1">3600</value>
 			<value fromLevel="1" toLevel="1" fromSubLevel="1001" toSubLevel="1030">{base + subIndex * 90}</value>
 		</abnormalTime>
 		<abnormalType>BUFF_SPECIAL_CLASS</abnormalType>
@@ -3911,7 +3911,7 @@
 		<abnormalLvl>5</abnormalLvl>
 		<abnormalType>ARMOR_ELEMENT_ALL</abnormalType>
 		<abnormalTime>
-			<value fromLevel="1" toLevel="1">1800</value>
+			<value fromLevel="1" toLevel="1">3600</value>
 			<value fromLevel="1" toLevel="1" fromSubLevel="1001" toSubLevel="1030">{base + subIndex * 15}</value>
 		</abnormalTime>
 		<icon>icon.skill11565</icon>

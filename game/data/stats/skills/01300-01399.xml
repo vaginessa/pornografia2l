@@ -2293,7 +2293,7 @@
 	</skill>
 	<skill id="1352" toLevel="1" name="Elemental Resistance">
 		<abnormalLvl>3</abnormalLvl>
-		<abnormalTime>1200</abnormalTime>
+		<abnormalTime>3600</abnormalTime>
 		<abnormalType>MD_UP_ATTR</abnormalType>
 		<castRange>400</castRange>
 		<effectPoint>662</effectPoint>

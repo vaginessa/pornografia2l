@@ -1458,7 +1458,7 @@
 			<value level="3">95</value>
 		</magicLvl>
 		<abnormalLvl>1</abnormalLvl>
-		<abnormalTime>30</abnormalTime>
+		<abnormalTime>3600</abnormalTime>
 		<abnormalVisualEffect>ULTIMATE_DEFENCE</abnormalVisualEffect>
 		<reuseDelay>900000</reuseDelay>
 		<targetType>SELF</targetType>
@@ -1521,7 +1521,7 @@
 			<value level="3">95</value>
 		</magicLvl>
 		<abnormalLvl>2</abnormalLvl>
-		<abnormalTime>15</abnormalTime>
+		<abnormalTime>3600</abnormalTime>
 		<affectRange>1000</affectRange>
 		<reuseDelay>900000</reuseDelay>
 		<targetType>SELF</targetType>
@@ -1689,7 +1689,7 @@
 		<magicCriticalRate>5</magicCriticalRate>
 		<magicLvl>85</magicLvl>
 		<abnormalLvl>1</abnormalLvl>
-		<abnormalTime>120</abnormalTime>
+		<abnormalTime>3600</abnormalTime>
 		<reuseDelay>120000</reuseDelay>
 		<targetType>SELF</targetType>
 		<affectScope>SINGLE</affectScope>

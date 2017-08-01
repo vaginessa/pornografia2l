@@ -1288,7 +1288,7 @@
 		<!-- You go into Hide state, cancel debuffs and Hold effects on you, increase HP Recovery Bonus, and eliminate enemy enmity toward you. -->
 		<abnormalLvl>1</abnormalLvl>
 		<abnormalTime>
-			<value fromLevel="1" toLevel="1">50</value>
+			<value fromLevel="1" toLevel="1">3600</value>
 			<value fromLevel="1" toLevel="1" fromSubLevel="1001" toSubLevel="1010">{base + subIndex}</value>
 			<value fromLevel="1" toLevel="1" fromSubLevel="1011" toSubLevel="1030">{base + 10 + 0.5 * subIndex}</value>
 		</abnormalTime>
@@ -1372,7 +1372,7 @@
 			<value level="4">4</value>
 		</abnormalLvl>
 		<abnormalTime>
-			<value fromLevel="1" toLevel="4">30</value>
+			<value fromLevel="1" toLevel="4">3600</value>
 			<value fromLevel="3" toLevel="4" fromSubLevel="1001" toSubLevel="1010">{base + subIndex}</value>
 			<value fromLevel="3" toLevel="4" fromSubLevel="1011" toSubLevel="1030">{base + 10 + 0.5 * subIndex}</value>
 		</abnormalTime>
@@ -1625,7 +1625,7 @@
 			<value level="2">2</value>
 			<value level="3">2</value>
 		</abnormalLvl>
-		<abnormalTime>10</abnormalTime>
+		<abnormalTime>3600</abnormalTime>
 		<abnormalType>AVOID_SKILL_SPECIAL</abnormalType>
 		<operateType>A2</operateType>
 		<magicCriticalRate>5</magicCriticalRate>
@@ -1701,7 +1701,7 @@
 			<value level="6">6</value>
 			<value level="7">7</value>
 		</abnormalLvl>
-		<abnormalTime>15</abnormalTime>
+		<abnormalTime>3600</abnormalTime>
 		<abnormalType>SUPER_MOVE</abnormalType>
 		<icon>icon.skill10525</icon>
 		<operateType>A2</operateType>
@@ -2046,7 +2046,7 @@
 			<value level="2">2</value>
 		</abnormalLvl>
 		<abnormalTime>
-			<value fromLevel="1" toLevel="2">30</value>
+			<value fromLevel="1" toLevel="2">3600</value>
 			<value fromLevel="1" toLevel="2" fromSubLevel="1001" toSubLevel="1010">{base + subIndex}</value>
 			<value fromLevel="1" toLevel="2" fromSubLevel="1011" toSubLevel="1030">{base + 10 + 0.5 * subIndex}</value>
 		</abnormalTime>
@@ -2712,7 +2712,7 @@
 		<operateType>T</operateType>
 		<magicCriticalRate>5</magicCriticalRate>
 		<magicLvl>85</magicLvl>
-		<mpInitialConsume>1</mpInitialConsume>
+		<mpInitialConsume>0</mpInitialConsume>
 		<rideState>NONE</rideState>
 		<hitTime>800</hitTime>
 		<targetType>NONE</targetType>
@@ -3542,7 +3542,7 @@
 	<skill id="10558" toLevel="1" name="Elusive Mirage">
 		<!-- For 30 sec., has a chance of cancelling target of the enemy that attacked you. Requires a dagger or dual dagger. -->
 		<abnormalLvl>1</abnormalLvl>
-		<abnormalTime>30</abnormalTime>
+		<abnormalTime>3600</abnormalTime>
 		<abnormalType>MIRAGE</abnormalType>
 		<icon>icon.skill11861</icon>
 		<operateType>A2</operateType>
@@ -3589,7 +3589,7 @@
 		<!-- Cannot target for 2 sec. -->
 		<icon>icon.skill11861</icon>
 		<abnormalLvl>1</abnormalLvl>
-		<abnormalTime>2</abnormalTime>
+		<abnormalTime>3600</abnormalTime>
 		<activateRate>80</activateRate>
 		<operateType>A2</operateType>
 		<targetType>SELF</targetType>
@@ -3613,7 +3613,7 @@
 	<skill id="10560" toLevel="1" name="Maximum Blow">
 		<!-- For 20 sec., Vital Spot Attack Rate + 10%. Requires a dagger or dual dagger. -->
 		<abnormalLvl>5</abnormalLvl>
-		<abnormalTime>20</abnormalTime>
+		<abnormalTime>3600</abnormalTime>
 		<abnormalType>MIGHT_MORTAL</abnormalType>
 		<icon>icon.skill11877</icon>
 		<operateType>A2</operateType>
@@ -3705,7 +3705,7 @@
 	<skill id="10562" toLevel="1" name="Critical Adventures">
 		<!-- For 5 min., Critical Damage + 304 and vital spot attack success rate + 10%. Front Critical Damage - 30%, Side Critical Rate + 20% and Critical Damage + 20%. Rear Critical Rate + 40% and Critical Damage + 40%. Requires a dagger or dual dagger. -->
 		<abnormalLvl>1</abnormalLvl>
-		<abnormalTime>300</abnormalTime>
+		<abnormalTime>3600</abnormalTime>
 		<abnormalType>FOCUS_DAGGER</abnormalType>
 		<icon>icon.skill10562</icon>
 		<operateType>A2</operateType>

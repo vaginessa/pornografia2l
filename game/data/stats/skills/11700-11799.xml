@@ -720,7 +720,7 @@
 		<!-- Renders the selected party member invincible for 10 seconds. -->
 		<icon>icon.skill11758</icon>
 		<abnormalLvl>1</abnormalLvl>
-		<abnormalTime>10</abnormalTime>
+		<abnormalTime>3600</abnormalTime>
 		<abnormalType>INVINCIBILITY_SPECIAL</abnormalType>
 		<abnormalVisualEffect>ULTIMATE_DEFENCE</abnormalVisualEffect>
 		<operateType>A2</operateType>
@@ -810,7 +810,7 @@
 		<!-- Renders all party members invincible for 10 seconds. -->
 		<icon>icon.skill11759</icon>
 		<abnormalLvl>1</abnormalLvl>
-		<abnormalTime>10</abnormalTime>
+		<abnormalTime>3600</abnormalTime>
 		<abnormalType>INVINCIBILITY_SPECIAL</abnormalType>
 		<abnormalVisualEffect>ULTIMATE_DEFENCE</abnormalVisualEffect>
 		<operateType>A2</operateType>
@@ -1137,7 +1137,7 @@
 	<skill id="11762" toLevel="1" name="Balance Heal">
 		<!-- Glory Days confirmed -->
 		<!-- Equalizes all party members' HP and restores 333 HP every second for 15 seconds. -->
-		<abnormalTime>15</abnormalTime>
+		<abnormalTime>3600</abnormalTime>
 		<affectRange>1000</affectRange>
 		<effectPoint>1844</effectPoint>
 		<hitTime>1500</hitTime>
@@ -1238,7 +1238,7 @@
 	<skill id="11764" toLevel="1" name="Brilliant Purge">
 		<!-- Glory Days confirmed -->
 		<!-- Cancels all party members' debuffs and makes them immune to debuffs for 7 seconds. -->
-		<abnormalTime>7</abnormalTime>
+		<abnormalTime>3600</abnormalTime>
 		<abnormalLvl>1</abnormalLvl>
 		<abnormalType>ABNORMAL_INVINCIBILITY</abnormalType>
 		<affectRange>1000</affectRange>
@@ -1306,9 +1306,9 @@
 	<skill id="11765" toLevel="7" name="Crystal Regeneration">
 		<!-- Glory Days confirmed -->
 		<!-- Crystallize yourself and become immune to damage and debuffs for 10 seconds. Recover 266 HP and 74 MP every second. -->
-		<abnormalTime>10</abnormalTime>
+		<abnormalTime>3600</abnormalTime>
 		<abnormalTime>
-			<value fromLevel="1" toLevel="7">10</value>
+			<value fromLevel="1" toLevel="7">3600</value>
 			<value fromLevel="3" toLevel="7" fromSubLevel="1001" toSubLevel="1030">{base + 0.5 * subIndex}</value>
 		</abnormalTime>
 		<abnormalLvl>

@@ -2208,7 +2208,7 @@
 	<skill id="21090" toLevel="1" name="Soul of the Phoenix">
 		<!-- Confirmed CT2.5 -->
 		<abnormalLvl>26</abnormalLvl>
-		<abnormalTime>1800</abnormalTime>
+		<abnormalTime>3600</abnormalTime>
 		<abnormalType>RESURRECTION_SPECIAL</abnormalType>
 		<blockedInOlympiad>true</blockedInOlympiad>
 		<effectPoint>673</effectPoint>
